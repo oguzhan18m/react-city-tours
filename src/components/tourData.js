@@ -30,7 +30,7 @@ export const tourData = [
     name: "tokyo sushi tour",
     info:
       "Tokyoyu sikiym!"
-  }
+  },
   {
     id: 5,
     city: "jackson",
@@ -38,7 +38,7 @@ export const tourData = [
     name: "jackson hole",
     info:
       "Jackson Hole Wyoming eyaletindedir ve Teton Dağları dibindeki bir Town'dur.Yellowstone National Park'a 1 saat uzaklıkta ve Grand Teton National Park'a 15 dk uzaklıktadır.On numara yerdir. "
-  }
+  },
   {
     id: 6,
     city: "lasvegas",
@@ -46,7 +46,7 @@ export const tourData = [
     name: "vegas baby",
     info:
       "What happens in Vegas, stays in Vegas!"
-  }
+  },
   {
     id: 7,
     city: "sanfrancisco",
