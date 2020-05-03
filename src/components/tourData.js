@@ -42,7 +42,7 @@ export const tourData = [
   {
     id: 6,
     city: "lasvegas",
-    img: "./img/lasvegas.jpeg",
+    img: "./img/lasvegas.jpg",
     name: "vegas baby",
     info:
       "What happens in Vegas, stays in Vegas!"
@@ -50,7 +50,7 @@ export const tourData = [
   {
     id: 7,
     city: "sanfrancisco",
-    img: "./img/sanfrancisco.jpeg",
+    img: "./img/sanfrancisco.jpg",
     name: "the city",
     info:
       "San Francisco büyüleyici bir şehirdir. Golden State Warriors bu şehrin takımıdır. Şehirde Alcatraz Hapishanesi ise çok önemli bir turistik noktadır. Lombard Streette arabanız ile menderesler çizebilirsiniz."
